@@ -2,6 +2,8 @@
 
 A beautiful and productive Chrome new tab extension to boost your daily productivity.
 
+![alt text](./public/image.png)
+
 ![Today Do](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
