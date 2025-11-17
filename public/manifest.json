@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Today Do - 오늘의 할 일",
+  "version": "1.0.0",
+  "description": "생산성을 높이는 Chrome 시작 페이지 - Todo, 포모도로, 날씨, 명언",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "vite.svg",
+    "48": "vite.svg",
+    "128": "vite.svg"
+  },
+  "permissions": [
+    "storage",
+    "notifications",
+    "geolocation"
+  ],
+  "host_permissions": [
+    "https://api.pexels.com/*",
+    "https://devapi.qweather.com/*"
+  ]
+}
