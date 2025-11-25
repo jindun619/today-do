@@ -30,7 +30,7 @@ A beautiful and productive Chrome new tab extension to boost your daily producti
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/today-do.git
+   git clone https://github.com/jindun619/today-do.git
    cd today-do
    ```
 
